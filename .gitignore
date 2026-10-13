@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+scratch/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
